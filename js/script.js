@@ -8,7 +8,6 @@ function subTotal() {
   
 
   function calculateTax() {
-   
     var subtotal = subTotal();
     var stax = 0.03;
       tax = subtotal * stax;
